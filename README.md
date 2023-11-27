@@ -1,3 +1,2 @@
 # portfolio
-who am i
-how i think
+who am i & how i think
